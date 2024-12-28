@@ -1,0 +1,42 @@
+{
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports.biome": "explicit",
+    "quickfix.biome": "explicit"
+  },
+  "editor.tabSize": 2,
+  "conventionalCommits.scopes": [
+    "WF",
+    "MAQ",
+    "SAL",
+    "CUS",
+    "TRE",
+    "PUR",
+    "PRO",
+    "PROJ",
+    "INV",
+    "OPE",
+    "USE",
+    "REP",
+    "DOC",
+    "QUIPU",
+    "PAY",
+    "BACC",
+    "ECO",
+    "CONF",
+    "ORD",
+    "STYL",
+    "HELP",
+    "LOG",
+    "CMS",
+    "INT",
+    "EXP",
+    "QUO"
+  ],
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
