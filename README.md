@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://minecraft-vite.vercel.app](https://minecraft-react-iuff.onrender.com/)">🌐 Live Demo</a> •
+  <a href="https://minecraft-react-iuff.onrender.com">🌐 Live Demo</a> •
   <a href="#-tech-stack">📦 Tech Stack</a>
 </p>
 
