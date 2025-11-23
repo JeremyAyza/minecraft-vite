@@ -167,39 +167,6 @@ Physics parameters can be adjusted in:
 
 ---
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
-
-### Netlify
-```bash
-# Build project
-pnpm build
-
-# Upload 'dist' folder to Netlify
-```
-
-### GitHub Pages
-```bash
-# Install gh-pages
-pnpm add -D gh-pages
-
-# Add script in package.json
-"deploy": "gh-pages -d dist"
-
-# Deploy
-pnpm build && pnpm deploy
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome. Please:
