@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://minecraft-react-iuff.onrender.com">🌐 Live Demo</a> •
+  <a href="https://minecraft-react-iuff.onrender.com" target="_blank">🌐 Live Demo</a> •
   <a href="#-tech-stack">📦 Tech Stack</a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ![demo](./demo.png) <!-- Replace with GIF or video if available -->
 
-> Try the live version: [minecraft-vite.vercel.app](https://minecraft-vite.vercel.app)
+> Try the live version: [minecraft-react-iuff.onrender.com](https://minecraft-react-iuff.onrender.com)
 
 ---
 
